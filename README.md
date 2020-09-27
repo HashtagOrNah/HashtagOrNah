@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋:smile:
+
+I am Quinlan Boney and currently majoring in Computer Science at Washington State University Vancouver.
 
 <!--
 **HashtagOrNah/HashtagOrNah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

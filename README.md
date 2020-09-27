@@ -9,7 +9,7 @@ I'm Quinlan Boney and currently majoring in Computer Science at Washington State
 ## Projects
 
 - 🌱 I started developing my own 2D platformer in Godot August 2020.
-- ⚡ I am creating my own [website](HashtagOrNah.github.io) as a hub about _me_!
+- ⚡ I am creating my own [website](https://hashtagornah.github.io/) as a hub about _me_!
 - 💬 Always learning new things about the piano and genres of play.
 
 ## Wanna Talk?

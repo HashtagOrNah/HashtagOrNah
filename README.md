@@ -12,8 +12,6 @@ I'm Quinlan Boney and currently majoring in Computer Science at Washington State
 - ⚡ I am creating my own [website](HashtagOrNah.github.io) as a hub about _me_!
 - 💬 Always learning new things about the piano and genres of play.
 
-<br>
-
 ## Wanna Talk?
 
 - <a href="https://www.linkedin.com/in/quinlan-boney-0300391b5/">

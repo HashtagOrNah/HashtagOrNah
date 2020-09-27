@@ -8,17 +8,19 @@ I'm Quinlan Boney and currently majoring in Computer Science at Washington State
 
 ## Projects
 
-🌱 I started developing my own 2D platformer in Godot August 2020.
-⚡ I am creating my own [website](HashtagOrNah.github.io) as a hub about _me_!
-💬 Always learning new things about the piano and genres of play.
+-🌱 I started developing my own 2D platformer in Godot August 2020.
+-⚡ I am creating my own [website](HashtagOrNah.github.io) as a hub about _me_!
+-💬 Always learning new things about the piano and genres of play.
 
 <br>
 
 ## Wanna Talk?
 
 <a href="https://www.linkedin.com/in/quinlan-boney-0300391b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-black?color=black&style=for-the-badge&logo=Linkedin"/>
+  <img src ="https://simpleicons.org/icons/linkedin.svg">
+  -<img src="https://img.shields.io/badge/LinkedIn-black?color=black&style=for-the-badge&logo=Linkedin"/>
 </a>
+
 
 <!--
 **HashtagOrNah/HashtagOrNah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

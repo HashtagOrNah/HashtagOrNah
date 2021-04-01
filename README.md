@@ -10,7 +10,7 @@ I'm Quinlan Boney and currently majoring in Computer Science at Washington State
 
 - 🌱 I develop games in Godot.
 <!--- ⚡ I have my own [website](https://hashtagornah.github.io/) as a hub about _me_!-->
-- 💬 Always learning new things about the piano and genres of play.
+- 💬 Always learning new things about the piano and genres to play.
 
 ## Wanna Talk?
 

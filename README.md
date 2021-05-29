@@ -17,9 +17,6 @@ I'm Quinlan Boney and currently majoring in Computer Science at Washington State
 - <a href="https://www.linkedin.com/in/quinlan-boney-0300391b5/">
     <img src="https://img.shields.io/badge/LinkedIn-black?color=black&style=for-the-badge&logo=Linkedin"/>
   </a>
-- <a>
-    <img src="https://img.shields.io/badge/-QuinlanBoney%40gmail.com-blue"/>
-  </a>
 
 
 <!--

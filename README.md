@@ -1,6 +1,6 @@
 ### Hi there 👋 :smile:
 
-I'm Quinlan Boney and currently majoring in Computer Science at Washington State University Vancouver.
+I'm Quinlan Boney with a Bachelors in CS.
 
 🤔 Popular opinion: 
 
